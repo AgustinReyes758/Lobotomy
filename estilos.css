@@ -18,7 +18,17 @@ body {
     background-color: black;
     
   }
-  
+
+
+svg {
+
+   color: yellow;
+   width: 100px;
+   height: 100px;
+
+  }
+
+
   .div, titulo, h2 {
     color: rgb(223, 190, 3);
     text-align: center;
@@ -55,6 +65,8 @@ body {
     text-align: justify;
     margin-top: 10px;
   }
+
+
 
 
 .anormalidades-wrap {
@@ -119,4 +131,5 @@ body {
     margin: 0;
     font-size: 15px;
     line-height: 1.5;
+
   }
